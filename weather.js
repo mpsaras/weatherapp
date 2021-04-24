@@ -37,9 +37,3 @@ $(document).ready(function() {
     });
 
 });   
-
-// error: function (xhr, status, error) {
-//     var errorMessage = xhr.status + ' + xhr.responseText';
-//     alert('Error - ' + errorMessage); 
-// }
-// }
